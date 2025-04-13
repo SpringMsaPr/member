@@ -31,5 +31,4 @@ public class Member extends BaseTimeEntity {
     @Builder.Default
     private Role role = Role.USER;
 
-
 }
